@@ -132,6 +132,7 @@
     <ClInclude Include="mnudrvprg_hello.h" />
     <ClInclude Include="mnudrvprog_010_parallel_construct.h" />
     <ClInclude Include="mnudrvprog_020_runtime_environment_routines.h" />
+    <ClInclude Include="performance_helloworld.h" />
     <ClInclude Include="ret_et_helloworld.h" />
     <ClInclude Include="ret_practice.h" />
     <ClInclude Include="ret_tid_helloworld.h" />

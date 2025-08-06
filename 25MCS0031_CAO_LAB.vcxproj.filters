@@ -48,6 +48,9 @@
     <ClInclude Include="031_wsc_for_num_square.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="performance_helloworld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25MCS0031_main.cpp">
