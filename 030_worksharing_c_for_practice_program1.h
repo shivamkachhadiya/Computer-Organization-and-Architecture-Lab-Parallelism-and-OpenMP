@@ -1,5 +1,6 @@
 #pragma once
 #include"stdio.h"
+#include <omp.h> 
 #include"conio.h"
 void fn_worksharing_c_for_2constructs() {
 	int i;

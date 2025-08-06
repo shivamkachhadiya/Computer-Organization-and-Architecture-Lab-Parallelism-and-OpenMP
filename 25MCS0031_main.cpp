@@ -33,10 +33,14 @@ int main() {
 	//// 
 	//// 
 	//fn_worksharing_c_for_2constructs();
-	//fn_worksharing_c_for_1constructs();
+    fn_worksharing_c_for_1constructs();
 
 	//calling square 
-	fn_num_square();
+	printf("\n=== Serial Execution ===\n");
+	fn_num_square_serial();
+
+	printf("\n=== Parallel Execution ===\n");
+	fn_perf_square_parallel();
 
 
 	return 0;
